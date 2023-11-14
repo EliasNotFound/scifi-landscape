@@ -4,7 +4,7 @@ A Simple Procedural Scifi Landscape - MTAT.03.015 Computer Graphics - University
 
 ## Participants
 
-- Kertu's full name here
+- Kertu Toompea
 - Anna Prudchenko
 - Elias Fiedler
 
